@@ -1,1 +1,1 @@
-# California-Housing-ML-Project
+# California-Housing-Price-Prediction-Model
